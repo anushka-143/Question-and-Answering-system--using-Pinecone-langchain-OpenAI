@@ -1,0 +1,5 @@
+pypdf
+docx2txt
+langchain
+unsturctured
+wikipedia
